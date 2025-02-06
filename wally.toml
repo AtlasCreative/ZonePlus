@@ -4,11 +4,12 @@ description = "Construct dynamic zones that utilise region checking, raycasting 
 license = "MIT"
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
-version = "3.2.0"
+version = "3.2.1"
 exclude = [
 	"docs", ".moonwave", "test",
 	"ZonePlus.rbxm", "ZonePlus.rbxmx",
 	".gitignore", "foreman.toml",
 ]
+authors = ["1foreverhd"]
 
 [dependencies]
